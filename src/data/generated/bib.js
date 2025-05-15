@@ -1,17 +1,92 @@
 ﻿const generatedBibEntries = {
-    "Beck2016Visual": {
-        "abstract": "Bibiographic data such as collections of scientific articles and citation networks have been studied extensively in information visualization and visual analytics research. Powerful systems have been built to support various types of bibliographic analysis, but they require some training and cannot be used to disseminate the insights gained. In contrast, we focused on developing a more accessible visual analytics system, called SurVis, that is ready to disseminate a carefully surveyed literature collection. The authors of a survey may use our Web-based system to structure and analyze their literature database. Later, readers of the survey can obtain an overview, quickly retrieve specific publications, and reproduce or extend the original bibliographic analysis. Our system employs a set of selectors that enable users to filter and browse the literature collection as well as to control interactive visualizations. The versatile selector concept includes selectors for textual search, filtering by keywords and meta-information, selection and clustering of similar publications, and following citation links. Agreement to the selector is represented by word-sized sparkline visualizations seamlessly integrated into the user interface. Based on an analysis of the analytical reasoning process, we derived requirements for the system. We developed the system in a formative way involving other researchers writing literature surveys. A questionnaire study with 14 visual analytics experts confirms that SurVis meets the initially formulated requirements.",
-        "author": "Beck, Fabian and Koch, Sebastian and Weiskopf, Daniel",
-        "doi": "10.1109/TVCG.2015.2467757",
-        "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "keywords": "type:system, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
-        "number": "01",
-        "publisher": "IEEE",
-        "series": "TVCG",
-        "title": "Visual Analysis and Dissemination of Scientific Literature Collections with {SurVis}",
-        "type": "article",
-        "url": "http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/vast15-survis.pdf",
-        "volume": "22",
-        "year": "2016"
-    }
+     "Bartlette2006": {
+    "title": "Effect of network latency on interactive musical performance",
+    "author": "Bartlette, C.; Headlam, D.; Bocko, M.; Velikic, G.",
+    "year": "2006",
+    "type": "article",
+    "keywords": "latency, performance, coordination",
+    "journal": "Music Perception",
+    "doi": "10.1525/mp.2006.24.1.49"
+  },
+      "Jack2016": {
+    "title": "Effect of latency on performer interaction and subjective quality assessment of a digital musical instrument",
+    "author": "Jack, R.H.; Stockman, T.; McPherson, A.P.",
+    "year": "2016",
+    "type": "conference",
+    "keywords": "latency, instrument, interaction",
+    "journal": "Audio Mostly",
+    "doi": "10.1145/2986416.2986420"
+  },
+  "Rottondi2016": {
+    "title": "An overview on networked music performance technologies",
+    "author": "Rottondi, C.; Chafe, C.; Allocchio, C.; Sarti, A.",
+    "year": "2016",
+    "type": "article",
+    "keywords": "network music, latency, audio",
+    "journal": "IEEE Access",
+    "doi": "10.1109/ACCESS.2016.2628440"
+  },
+  "Grimm2024": {
+    "title": "Interactive low delay music and speech communication via network connections (OVBOX)",
+    "author": "Grimm, G.",
+    "year": "2024",
+    "type": "article",
+    "keywords": "OVBOX, communication, low delay",
+    "journal": "Acta Acustica",
+    "doi": "10.1051/aacus/2024005"
+  },
+  "Turchet2023": {
+    "title": "Immersive networked music performance systems: identifying latency factors",
+    "author": "Turchet, L.; Tomasetti, M.",
+    "year": "2023",
+    "type": "conference",
+    "keywords": "latency, immersive, user experience",
+    "journal": "I3DA",
+    "url": "https://ebooks.iospress.nl/volumearticle/22374"
+  },
+  "Werner2024": {
+    "title": "Why real-time matters: Performance evaluation of recent ultra-low latency audio communication systems",
+    "author": "Werner, C.; Grimm, G.",
+    "year": "2024",
+    "type": "conference",
+    "keywords": "ultra-low latency, real-time, evaluation",
+    "journal": "IEEE CCNC",
+    "doi": "10.1109/CCNC51644.2024.10485863"
+  },
+  "Chafe2010": {
+    "title": "JackTrip: Under the hood of an engine for network audio",
+    "author": "Chafe, C.; C\u00e1ceres, J.P.",
+    "year": "2010",
+    "type": "article",
+    "keywords": "JackTrip, network audio, platform",
+    "journal": "Journal of New Music Research",
+    "doi": "10.1080/09298215.2010.481361"
+  },
+  "Carot2009": {
+    "title": "Network music performance\u2014Problems, approaches and perspectives",
+    "author": "Car\u00f4t, A.; Werner, C.",
+    "year": "2009",
+    "type": "conference",
+    "keywords": "network music, approaches, perspectives",
+    "journal": "AES 35th International Conference",
+    "url": "https://www.aes.org/e-lib/browse.cfm?elib=15271"
+  },
+  "Drioli2011": {
+    "title": "Networked performances and natural interaction via LOLA: Low latency high quality A/V streaming system",
+    "author": "Drioli, C.; Allocchio, C.",
+    "year": "2011",
+    "type": "conference",
+    "keywords": "LOLA, streaming, performance",
+    "journal": "NIME",
+    "url": "https://nime.org/proceedings/2011/nime2011_1.pdf"
+  },
+  "Caceres2010": {
+    "title": "JackTrip: Under the hood of an engine for network audio",
+    "author": "C\u00e1ceres, J.P.; Chafe, C.",
+    "year": "2010",
+    "type": "article",
+    "keywords": "JackTrip, remote music, collaboration",
+    "journal": "Journal of New Music Research",
+    "doi": "10.1080/09298215.2010.481361"
+  }
 };
