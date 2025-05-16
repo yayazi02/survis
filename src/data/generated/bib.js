@@ -44,14 +44,14 @@
     "journal": "I3DA",
     "url": "https://ebooks.iospress.nl/volumearticle/22374"
   },
-  "Werner2024": {
-    "title": "Why real-time matters: Performance evaluation of recent ultra-low latency audio communication systems",
-    "author": "Werner, C.; Grimm, G.",
-    "year": "2024",
-    "type": "conference",
-    "keywords": "ultra-low latency, real-time, evaluation",
-    "journal": "IEEE CCNC",
-    "doi": "10.1109/CCNC51644.2024.10485863"
+ "GrimmWerner2021": {
+      "title": "Real-time music over IP: Audio quality and transmission delay trade-offs",
+      "author": "Grimm, G.; Werner, C.",
+      "year": "2021",
+      "type": "conference",
+      "keywords": "real-time audio, IP music, delay, quality",
+      "journal": "AES Conference",
+      "url": "https://www.aes.org/e-lib/browse.cfm?elib=21076"
   },
   "Chafe2010": {
     "title": "JackTrip: Under the hood of an engine for network audio",
@@ -71,14 +71,14 @@
     "journal": "AES 35th International Conference",
     "url": "https://www.aes.org/e-lib/browse.cfm?elib=15271"
   },
-  "Drioli2011": {
-    "title": "Networked performances and natural interaction via LOLA: Low latency high quality A/V streaming system",
-    "author": "Drioli, C.; Allocchio, C.",
-    "year": "2011",
-    "type": "conference",
-    "keywords": "LOLA, streaming, performance",
-    "journal": "NIME",
-    "url": "https://nime.org/proceedings/2011/nime2011_1.pdf"
+  "Drioli2013": {
+  "title": "Networked performances and natural interaction via LOLA: Low latency high quality A/V streaming system",
+  "author": "Drioli, C.; Allocchio, C.",
+  "year": "2013",
+  "type": "bookchapter",
+  "keywords": "LOLA, streaming, performance",
+  "journal": "Information Technologies for Performing Arts, Media Access, and Entertainment",
+  "doi": "10.1007/978-3-642-40050-6_23"
   },
   "Caceres2010": {
     "title": "JackTrip: Under the hood of an engine for network audio",
